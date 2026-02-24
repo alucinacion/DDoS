@@ -27,5 +27,5 @@ This PoC generates a large volume of **HTTP GET** requests to the target server,
 
 ##  Support
 
-**Hit me up:**     https://t.me/foolest
+**Hit me up:**            https://t.me/foolest
 
