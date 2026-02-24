@@ -1,4 +1,4 @@
-# DDoS coded by github.com/alucinacion
+# DDoS Software
 
 Enjoy this free version /v1.0
 
