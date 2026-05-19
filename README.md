@@ -22,7 +22,7 @@ This project is intended for **educational** and **research** purposes **only**.
 - **Randomized User Agents** to simulate different browsers and devices 
 
 ##  How it Works
-This PoC generates a large volume of **HTTP GET** requests to the target server, each containing a unique or random **User Agent** string. The goal is to simulate legitimate traffic from different devices and browsers, overwhelming the server's capacity and making it difficult for basic filters to block malicious requests.
+Generates a large volume of **HTTP GET** requests to the target server, each containing a unique or random **User Agent** string. The goal is to simulate legitimate traffic from different devices and browsers, overwhelming the server's capacity and making it difficult for basic filters to block malicious requests.
 
 
 
