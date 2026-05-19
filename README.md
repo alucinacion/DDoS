@@ -25,7 +25,5 @@ This project is intended for **educational** and **research** purposes **only**.
 This PoC generates a large volume of **HTTP GET** requests to the target server, each containing a unique or random **User Agent** string. The goal is to simulate legitimate traffic from different devices and browsers, overwhelming the server's capacity and making it difficult for basic filters to block malicious requests.
 
 
-##  Support
 
-**Hit me up:**            https://t.me/foolest
 
