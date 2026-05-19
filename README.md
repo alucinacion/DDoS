@@ -2,7 +2,7 @@
 
 Enjoy this free version /v1.0
 
-#  DDoS Attack Simulation using User Agents 
+#  DDoS Attack using User Agents 
 This repository contains a **Proof of Concept (PoC)** for simulating a **Distributed Denial of Service (DDoS)** attack by leveraging multiple **User Agents**. This PoC demonstrates how an attacker can flood a target web server with HTTP requests using a variety of User Agents, making it difficult to differentiate between real and malicious traffic.
 
 ##  Disclaimer 
